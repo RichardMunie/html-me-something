@@ -1,0 +1,45 @@
+a {
+    color: #0d8ba1;
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+    text-decoration: none;
+  }
+    a:visited {
+      color: #1a5952;
+    }
+    a:hover, a:focus {
+      color: #0599c2;
+      text-decoration: underline;
+    }
+body {
+    background-color: burlywood;
+    font-family: "vintage", Times, serif;
+    margin: 100px;
+    align-content: center;
+}
+.to_center {
+    text-align: center;
+}
+.odd {
+    background-color: aqua;
+}
+.even {
+    background-color: #1a5952;
+}
+img {
+    border: 5px solid black;
+}
+section {
+    align-items: center;
+    border: 5px solid black;
+}
+#colored {
+
+}
+ul {
+    margin-left: 500px;
+}
+.tallwide {
+    margin-left:200px;
+}
