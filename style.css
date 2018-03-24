@@ -43,3 +43,34 @@ ul {
 .tallwide {
     margin-left:200px;
 }
+.narrow {
+    margin-left: 300px;
+}
+.wide {
+    margin-left: 250px
+}
+p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#floatingTop {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background: blue;
+}
+.box {
+    width: 100px;
+    height: 25px;
+    background: lightblue;
+    color: white;
+  }
+  
+#one {
+    position: fixed;
+    top: 550px;
+    right: 10px;
+    background: lightblue;
+    text-align: center;
+    border: 2px solid blue;
+  }
