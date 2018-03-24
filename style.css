@@ -15,7 +15,7 @@ a {
 body {
     background-color: burlywood;
     font-family: "vintage", Times, serif;
-    margin: 100px;
+    padding: 80px;
     align-content: center;
 }
 .to_center {
@@ -33,9 +33,6 @@ img {
 section {
     align-items: center;
     border: 5px solid black;
-}
-#colored {
-
 }
 ul {
     margin-left: 500px;
